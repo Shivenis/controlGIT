@@ -23,6 +23,7 @@ public class Artista {
     //Daniel Corona Aguilar
     public void metodoNuevo(){
     	System.out.println("¡Hola!");
+	System.out.println("Modificacion parte 2")
     }
 }
 
