@@ -20,6 +20,10 @@ public class Artista {
 	//Esto es un comentario
     }
     
+    //Daniel Corona Aguilar
+    public void metodoNuevo(){
+    	System.out.println("¡Hola!");
+    }
 }
 
 
